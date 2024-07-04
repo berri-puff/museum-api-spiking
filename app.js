@@ -6,3 +6,5 @@ const details = result.data["record"]
 console.log(details)
 })
 
+// V&A getting images
+axios.get()
